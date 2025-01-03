@@ -1,0 +1,82 @@
+[
+  {
+    "name": "크럼블 펀칭 데님 펜츠",
+    "thumb": "http://metalu3.dothome.co.kr/tint_vue/image/thum/thum_pro1.png",
+    "tagnew": "New",
+    "tagbest": "Best",
+    "cost": "33,000",
+    "sale": "30,000",
+    "per": "9%",
+    "id": 0
+  },
+  {
+    "name": "웨스턴 코듀로이 오버핏 트러커 자켓",
+    "thumb": "http://metalu3.dothome.co.kr/tint_vue/image/thum/thum_pro2.png",
+    "tagnew": "New",
+    "tagbest": "Best",
+    "cost": "33,000",
+    "sale": "30,000",
+    "per": "9%",
+    "id": 1
+  },
+  {
+    "name": "오버핏 아이스크림 그래픽 로고 반팔티",
+    "thumb": "http://metalu3.dothome.co.kr/tint_vue/image/thum/thum_pro3.png",
+    "tagnew": "New",
+    "tagbest": "Best",
+    "cost": "33,000",
+    "sale": "30,000",
+    "per": "9%",
+    "id": 2
+  },
+  {
+    "name": "파라슈트 나일론 카펜터 와이드 팬츠",
+    "thumb": "http://metalu3.dothome.co.kr/tint_vue/image/thum/thum_pro4.png",
+    "tagnew": "New",
+    "tagbest": "Best",
+    "cost": "33,000",
+    "sale": "30,000",
+    "per": "9%",
+    "id": 3
+  },
+  {
+    "name": "파라슈트 나일론 카고 팬츠",
+    "thumb": "http://metalu3.dothome.co.kr/tint_vue/image/thum/thum_pro5.png",
+    "tagnew": "New",
+    "tagbest": "Best",
+    "cost": "33,000",
+    "sale": "30,000",
+    "per": "9%",
+    "id": 4
+  },
+  {
+    "name": "아트 로고 턱 후드 집 업",
+    "thumb": "http://metalu3.dothome.co.kr/tint_vue/image/thum/thum_pro6.png",
+    "tagnew": "New",
+    "tagbest": "Best",
+    "cost": "33,000",
+    "sale": "30,000",
+    "per": "9%",
+    "id": 5
+  },
+  {
+    "name": "SS 워시드 원턱 빈티지 와이드팬츠",
+    "thumb": "http://metalu3.dothome.co.kr/tint_vue/image/thum/thum_pro7.png",
+    "tagnew": "New",
+    "tagbest": "Best",
+    "cost": "33,000",
+    "sale": "30,000",
+    "per": "9%",
+    "id": 6
+  },
+  {
+    "name": "네이티브 패턴 부클 카라 니트 가디건",
+    "thumb": "http://metalu3.dothome.co.kr/tint_vue/image/thum/thum_pro8.png",
+    "tagnew": "New",
+    "tagbest": "Best",
+    "cost": "33,000",
+    "sale": "30,000",
+    "per": "9%",
+    "id": 7
+  }
+]
